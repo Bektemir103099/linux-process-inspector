@@ -1,4 +1,4 @@
-<img width="1500" height="682" alt="image" src="https://github.com/user-attachments/assets/f197d5c6-286e-44fd-b02b-bc6ec0d08855" /># Linux Process Inspector & Monitor
+<img width="1917" height="623" alt="image" src="https://github.com/user-attachments/assets/02f0d1b9-5c5b-4c07-8a57-b8b545a3e4d7" />
 
 A C-based system utility designed to inspect active Linux processes and monitor system RAM.
 
